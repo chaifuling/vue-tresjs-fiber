@@ -1,1 +1,1 @@
-is a React renderer for threejs.
+is a vue renderer for threejs.
