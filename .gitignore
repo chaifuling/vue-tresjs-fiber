@@ -1,0 +1,53 @@
+# Java
+*.class
+*.war
+*/target/
+*.iml
+*.log
+*.tmp
+*.bak
+*.swp
+*/.DS_Store
+*/Thumbs.db
+
+# Maven
+*/.mvn/wrapper/maven-wrapper.jar
+*/.mvn/wrapper/MavenWrapperDownloader.class
+
+# IntelliJ IDEA
+.idea/
+*.ipr
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
+*/bin/
+*.launch
+.metadata/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Node.js
+*/node_modules/
+*.map
+*/yarn.lock
+*/pnpm-lock.yaml
+
+# Editor directories and files
+.vscode/settings.json
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+*.tsbuildinfo
+
+# project
+.erupt
